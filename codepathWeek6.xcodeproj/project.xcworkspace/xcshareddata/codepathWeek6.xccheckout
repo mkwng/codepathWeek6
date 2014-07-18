@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8C0982C2-C6EB-409B-BA72-AE6A231B061A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>codepathWeek6</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>54856CBE-3E83-4871-B3D2-FE3E696E8E16</key>
+		<string>https://github.com/mkwng/codepathWeek6.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>codepathWeek6.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>54856CBE-3E83-4871-B3D2-FE3E696E8E16</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mkwng/codepathWeek6.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>54856CBE-3E83-4871-B3D2-FE3E696E8E16</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>54856CBE-3E83-4871-B3D2-FE3E696E8E16</string>
+			<key>IDESourceControlWCCName</key>
+			<string>codepathWeek6</string>
+		</dict>
+	</array>
+</dict>
+</plist>

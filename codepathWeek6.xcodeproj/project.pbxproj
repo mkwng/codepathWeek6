@@ -19,6 +19,8 @@
 		1532DE57197865050067D6AC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1532DE3F197865050067D6AC /* UIKit.framework */; };
 		1532DE5F197865050067D6AC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1532DE5D197865050067D6AC /* InfoPlist.strings */; };
 		1532DE61197865050067D6AC /* codepathWeek6Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1532DE60197865050067D6AC /* codepathWeek6Tests.m */; };
+		1532DE70197866720067D6AC /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1532DE6E197866720067D6AC /* MainViewController.m */; };
+		1532DE71197866720067D6AC /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1532DE6F197866720067D6AC /* MainViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +50,9 @@
 		1532DE5C197865050067D6AC /* codepathWeek6Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "codepathWeek6Tests-Info.plist"; sourceTree = "<group>"; };
 		1532DE5E197865050067D6AC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1532DE60197865050067D6AC /* codepathWeek6Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = codepathWeek6Tests.m; sourceTree = "<group>"; };
+		1532DE6D197866720067D6AC /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		1532DE6E197866720067D6AC /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		1532DE6F197866720067D6AC /* MainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +112,9 @@
 		1532DE41197865050067D6AC /* codepathWeek6 */ = {
 			isa = PBXGroup;
 			children = (
+				1532DE6D197866720067D6AC /* MainViewController.h */,
+				1532DE6E197866720067D6AC /* MainViewController.m */,
+				1532DE6F197866720067D6AC /* MainViewController.xib */,
 				1532DE4A197865050067D6AC /* AppDelegate.h */,
 				1532DE4B197865050067D6AC /* AppDelegate.m */,
 				1532DE4D197865050067D6AC /* Images.xcassets */,
@@ -220,6 +228,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1532DE46197865050067D6AC /* InfoPlist.strings in Resources */,
+				1532DE71197866720067D6AC /* MainViewController.xib in Resources */,
 				1532DE4E197865050067D6AC /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -240,6 +249,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1532DE4C197865050067D6AC /* AppDelegate.m in Sources */,
+				1532DE70197866720067D6AC /* MainViewController.m in Sources */,
 				1532DE48197865050067D6AC /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
